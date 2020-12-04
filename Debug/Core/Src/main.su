@@ -1,0 +1,7 @@
+main.c:60:6:delay	16	static
+main.c:77:5:main	16	static
+main.c:138:6:SystemClock_Config	88	static
+main.c:184:13:MX_TIM1_Init	32	static
+main.c:230:13:MX_USART2_UART_Init	8	static
+main.c:263:13:MX_GPIO_Init	48	static
+main.c:325:6:Error_Handler	4	static
