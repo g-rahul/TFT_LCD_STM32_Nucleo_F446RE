@@ -1,4 +1,4 @@
-# TFT_LCD_STM32_Nucleo_64
+# TFT_LCD_STM32_Nucleo_F446RE
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://paypal.me/helprahulcreate?locale.x=en_GB)
 
